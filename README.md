@@ -1,4 +1,4 @@
-# Object Localization with TensorFlow
+# Object Localization with TensorFlow 
 This project demonstrates how to build and train a **multi-output Convolutional Neural Network (CNN)** using TensorFlow/Keras to perform **object localization** and **classification simultaneously**.
 
 Unlike full object detection systems, this implementation assumes **a single object per image** and predicts:
